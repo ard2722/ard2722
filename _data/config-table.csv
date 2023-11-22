@@ -1,5 +1,8 @@
 field,display_name
 title,Title
-date,Date
+creator,Author
+date,Publication Date
+isbn,ISBN
 description,Description
 subject,Subjects
+booktype,Booktype 
